@@ -1,0 +1,22 @@
+{
+  "name": "Local Dev Kit for Stripo Plugin",
+  "short_name": "Stripo Dev Kit",
+  "start_url": "/local-stripo-api/",
+  "scope": "/local-stripo-api/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#34204d",
+  "icons": [
+    {
+      "src": "/local-stripo-api/images/pwa-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/local-stripo-api/images/pwa-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

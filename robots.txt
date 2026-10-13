@@ -4,5 +4,4 @@ Allow: /
 # Partials are source fragments and are not public page entry points.
 Disallow: /partials/
 
-# Replace example.com in site.config.js before deployment.
-Sitemap: https://example.com/sitemap.xml
+Sitemap: https://crendon213wp.github.io/local-stripo-api/sitemap.xml
